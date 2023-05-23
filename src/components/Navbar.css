@@ -1,0 +1,21 @@
+.navbar_background{
+    height: 60px;
+    width:100%;
+    background: #000000;
+    display: flex; 
+    
+}
+
+.logo_image{
+    height: 28px;
+    width: 30px;
+    margin-left: 25px;
+    margin-top: 12px;
+}
+
+.navbar_header{
+    margin-left: 20px;
+    color:rgba(255, 255, 255, 0.9);
+    margin-top: 15px;
+}
+
